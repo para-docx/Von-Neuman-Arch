@@ -1,3 +1,3 @@
-# Risc-Processor-SOC
+# Vonn-Neumann-Arch
 
 ## VLSI summer Internship Project 
