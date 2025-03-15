@@ -16,4 +16,5 @@ This project implements a **Von Neumann Architecture** in Verilog, inspired by *
 - `top_module.v` – Integrates control unit & datapath
 
 ## 📝 Design
+
 <img src="https://i.ibb.co/kgvVQWWw/Screenshot-2025-03-15-180838.png" alt="Screenshot-2025-03-15-180838" border="0">
