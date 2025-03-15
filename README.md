@@ -11,8 +11,8 @@ This project implements a **Von Neumann Architecture** in Verilog, inspired by *
 ## 📁 Structure  
 - `control_unit.v` – FSM-driven control logic  
 - `datapath.v` – ALU, registers, memory  
-- `memory.hex` – Stores program instructions  
-- `instruction_file.txt` – Contains instruction set  
+- `HexadecimalFile.mem` – Stores program instructions  
+- `instructionFile.mem` – Contains instruction set  
 - `top_module.v` – Integrates control unit & datapath
 
 ## 📝 Design
